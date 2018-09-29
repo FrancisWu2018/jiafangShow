@@ -1,0 +1,25 @@
+*{margin: 0;
+padding: 0;
+list-style: none;}
+
+.header{
+background: url(http://pft7mljp3.bkt.clouddn.com/bg.png) no-repeat;
+background-size: cover;
+
+}
+.header ul{display: flex;flex-direction: row-reverse;justify-content: space-around;color: brown;
+font-size: medium;font-weight: bolder;
+height: 150px;}
+
+ul img{width: 150px;
+height: 150px;}
+.container ul{display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;}
+
+.container ul li{display: flex;
+flex-direction: column;padding: 4px;}
+.container ul p{font-size: small;}
+.price{color: red;}
+
