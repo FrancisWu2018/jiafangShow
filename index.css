@@ -3,7 +3,7 @@ padding: 0;
 list-style: none;}
 
 .header{
-background: url(http://pft7mljp3.bkt.clouddn.com/bg.png) no-repeat;
+background: url("http://pft7mljp3.bkt.clouddn.com/bg.png") no-repeat;
 background-size: cover;
 
 }
